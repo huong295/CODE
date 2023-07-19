@@ -1,0 +1,32 @@
+.weatherSearchSideBar {
+  width: 459px;
+  height: 1023px;
+  left: 0px;
+  top: 0px;
+
+  background: #1e213a;
+  .weatherSearchSideBarCloseBtn {
+    margin: 16px 16px 0 0;
+  }
+  .weatherSearchSideBarDetail {
+    margin-top: 82px;
+    .weatherSearchSideBarDetailInputText {
+      margin-left: 30px;
+      margin-right: 10px;
+    }
+    .weatherSearchSideBarDetailSearchbtn {
+      :global {
+        .MuiButtonBase-root {
+          .MuiButton-root {
+            margin-left: 8px;
+            margin-top: 6px;
+          }
+        }
+      }
+    }
+  }
+  .weatherSearchSideBarInputSelection {
+    margin-top: 58px;
+    margin-left: 30px;
+  }
+}

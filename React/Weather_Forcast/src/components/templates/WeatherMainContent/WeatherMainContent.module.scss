@@ -1,0 +1,52 @@
+.weatherMainContent {
+  width: 981px;
+  height: 1023px;
+  left: 459px;
+  top: 0px;
+
+  background: #100e1d;
+  .WeatherMainContentSmallBoldLabel {
+    width: 220px;
+    height: 28px;
+    left: 613px;
+    top: 397px;
+
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #e7e7eb;
+  }
+  .weatherMainContentUnitTemp {
+    padding-top: 42px;
+    padding-right: 125px;
+  }
+  .weatherMainContentWeeklyBox {
+    padding-left: 154px;
+    padding-top: 66px;
+  }
+  .WeatherMainContentSmallBoldLabel {
+    padding-top: 72px;
+    padding-left: 154px;
+  }
+  .weatherMainContentDetail {
+    padding-left: 154px;
+    padding-top: 72px;
+    .weatherMainContentDetailWind {
+      padding-right: 48px;
+    }
+    .weatherMainContentDetailVisibility {
+      padding-right: 48px;
+      margin-top: -24px;
+    }
+    .weatherMainContentDetailAirPressure {
+      margin-top: -24px;
+    }
+  }
+  .weatherMainContentSmallSlightLabel {
+    padding-left: 347px;
+    padding-top: 87px;
+  }
+}

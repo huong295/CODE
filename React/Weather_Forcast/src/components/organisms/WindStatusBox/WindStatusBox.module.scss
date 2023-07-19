@@ -1,0 +1,19 @@
+.windStatusBox {
+  width: 328px;
+  height: 204px;
+  left: 613px;
+  top: 457px;
+  align-items: center;
+
+  .smallSlightLabelText {
+    margin-top: 32px;
+  }
+
+  background: #1e213a;
+  .windStatusBoxDetail {
+    .windStatusBoxDetailText {
+      margin-top: 12px;
+      margin-left: 10px;
+    }
+  }
+}

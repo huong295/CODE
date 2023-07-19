@@ -1,0 +1,14 @@
+.weatherWeeklyBox {
+  width: 120px;
+  height: 177px;
+  background: #1e213a;
+  align-items: center;
+  justify-content: center;
+  margin-right: 26px;
+  .weatherWeeklyBoxTitle {
+    margin-bottom: 21px;
+  }
+  .weatherWeeklyBoxSmallIcon {
+    margin-bottom: 13px;
+  }
+}

@@ -1,0 +1,15 @@
+.selectionInput {
+  :global {
+    .MuiOutlinedInput-root {
+      .MuiSelect-select {
+        color: #e7e7eb;
+        border-color: #e7e7eb;
+      }
+    }
+  }
+  .selectionInputFormCotrol {
+    .selectionInputFormControlInputLabel {
+      color: #e7e7eb;
+    }
+  }
+}

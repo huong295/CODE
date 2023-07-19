@@ -1,0 +1,16 @@
+.searchBtn {
+
+  :global {
+    .MuiButton-containedInfo{
+      color:#fff;
+      height: 50px;
+    }
+  }
+  .searchBtnDetail {
+    width: 86px;
+    height: 48px;
+    left: 327px;
+    top: 82px;
+    background-color: #3C47E9;
+  }
+}

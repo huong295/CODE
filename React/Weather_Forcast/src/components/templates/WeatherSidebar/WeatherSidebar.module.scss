@@ -1,0 +1,38 @@
+.weatherSideBar {
+  width: 459px;
+  height: 1023px;
+  .weatherSideBarBox {
+    background: #1e213a;
+    .weatherSideBarSearchPlaceHeaderSidebar {
+      margin-right: 20px;
+      margin-left: 50px;
+      padding-top: 32px;
+    }
+    .weatherSideBarBigIcon {
+      width: 202px;
+      height: 234px;
+      margin-top: 120px;
+      margin-left: 120px;
+      margin-right: 128px;
+    }
+    .weatherSideBarBigDetailLabel {
+      margin-left: 125px;
+      margin-right: 143px;
+      margin-top: 80px;
+    }
+    .weatherSideBarBigSlightLabel {
+      margin-top: 75px;
+      margin-left: 135px;
+      margin-right: 155px;
+    }
+    .weatherSideBarSmallDetailLabel {
+      margin-top: 40px;
+      margin-bottom: 20px;
+      margin-left: 100px;
+
+      height: 21px;
+      left: 238px;
+      top: 897px;
+    }
+  }
+}

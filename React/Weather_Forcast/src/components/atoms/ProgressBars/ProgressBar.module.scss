@@ -1,0 +1,32 @@
+.progressBar {
+  :global {
+    .MuiSlider-root {
+      color: #ffec65 !important;
+      .MuiSlider-markLabel {
+        color: #fff;
+        font-size: 8px;
+        margin-top: -30px;
+      }
+    }
+  }
+
+  .progressBarUnitHumidity {
+    width: 10px;
+    height: 14px;
+    left: 1257px;
+    top: 624px;
+
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #a09fb1;
+    margin-top: -32px;
+    margin-left: 221px;
+  }
+}

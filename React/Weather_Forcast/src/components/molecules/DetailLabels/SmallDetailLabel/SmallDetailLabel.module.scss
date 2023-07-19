@@ -1,0 +1,15 @@
+.smallDetailLabel {
+  .smallDetailLabelDate {
+    div {
+      margin-right: 20px;
+      margin-bottom: 4px;
+    }
+  }
+  .smallDetailLabelLocation {
+    margin-left: 60px;
+    .smallDetailLabelLocationDetail + .smallDetailLabelLocationDetail {
+      margin-top: 10px;
+      margin-left: 7px;
+    }
+  }
+}
